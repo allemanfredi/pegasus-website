@@ -1,0 +1,50 @@
+body {
+  font-family: 'Ubuntu', sans-serif !important;
+}
+
+.navbar-fixed-top.scrolled {
+  background-color: white !important;
+  transition: background-color 200ms linear;
+}
+
+.table-responsive {
+  max-height:500px;
+}
+
+.float-right {
+  float: right;
+}
+
+.btn-github {
+  border-radius: 10rem;
+  padding-top: 0.46428571em;
+  padding-bottom: 0.46428571em;
+  padding-right: 1.78571429em;
+  padding-left: 1.78571429em;
+  border-width: 1px;
+  font-size: inherit;
+  line-height: 1.85714286em;
+  background: white;
+  border: 1px solid #242A2E;
+  background: #242A2E;
+  font-weight: bold;
+  color: white;
+}
+
+.btn-github:hover {
+  color: white !important;
+  text-decoration: none !important;
+}
+
+ul {
+  margin: 0 !important;
+}
+
+.border-radius-50 {
+  border-radius: 50%;
+}
+
+.bar {
+  padding: 20px;
+  background: white !important; 
+}
